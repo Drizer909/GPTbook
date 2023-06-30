@@ -21,8 +21,4 @@ This will generate a novel based on the given prompt with 20 chapters. Note -- p
 
 
 
-## Contact
 
-Matt Shumer - [@mattshumer_](https://twitter.com/mattshumer_)
-
-Project Link: [https://github.com/mshumer/gpt-author/](https://github.com/mshumer/gpt-author/ )
