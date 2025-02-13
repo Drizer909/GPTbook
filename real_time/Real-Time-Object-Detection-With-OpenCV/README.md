@@ -1,5 +1,7 @@
 # Real-Time Object Detection and Gesture Recognition
 
+> ⚠️ **IMPORTANT NOTICE**: This repository will be archived on `February 16, 2024`. Please fork or download before this date.
+
 A computer vision project that combines real-time object detection and hand gesture recognition using OpenCV and MediaPipe.
 
 ## Features
